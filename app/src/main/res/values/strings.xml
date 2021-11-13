@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">q1-CA</string>
+    <string name="microsoft_teams">Microsoft Teams</string>
+    <string name="sign_in">Sign in</string>
+    <string name="get_started_with_your_work_school_or_npersonal_microsoft_account">Get started with your work, school or\npersonal Microsoft account</string>
+    <string name="join_a_meeting">Join a meeting</string>
+    <string name="enter_email_phone_or_skype">Enter email, phone, or Skype</string>
+    <string name="get_help_signing_in">Get help signing in</string>
+    <string name="image">image</string>
+    <string name="imagebutton">imagebutton</string>
+    <string name="sign_up_for_free">Sign up for free</string>
+</resources>
